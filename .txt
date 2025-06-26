@@ -1,0 +1,37 @@
+*Relatorio tecnico pedido de instalação aplicativos*
+
+
+Através deste relatório, venho solicitar a instalação dos seguintes aplicativos no computador de uso profissional, com o objetivo de viabilizar o desenvolvimento e execução de automações que estão sendo aplicadas nos processos internos:
+
+1. Aplicativos Solicitados:
+
+Visual Studio Code
+
+Finalidade: Ambiente de desenvolvimento integrado (IDE) utilizado para programar e editar scripts de automação.
+
+Site oficial: https://code.visualstudio.com/
+
+
+Node.js e python
+
+Finalidade: Linguagens de programação para automação está funcionando corretamente.
+
+Site oficial: https://nodejs.org/
+Site oficial: https://www.python.org/
+
+
+
+2. Repositório do Código
+
+Link para o código da automação no GitHub:
+[]
+
+
+3. Vídeo de Demonstração
+
+Link com a demonstração do funcionamento do processo automatizado:
+[https://youtu.be/01qN2MlXHrg?si=N0UPADaa-Q51yUHG]
+
+
+4. Grupo onde automação esta funcionamento:
+[https://t.me/+0hwoisknj-I4ZGQx]
